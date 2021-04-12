@@ -83,4 +83,4 @@
    * 程序现在在运行了，具体进度会显示在Shell窗口中（如果看不懂日志消息，可以问下我（）
 
 ## 这好像……不怎么符合预期？
-如果你遇到了任何bug或者有想要改进的地方，请[创建一个Issue](https://github.com/Cynthia7979/tools-programs/issues/new)或[Pull request](https://github.com/Cynthia7979/tools-programs/compare)来报告问题或贡献。
+如果你遇到了任何bug或者有想要改进的地方，请[创建一个Issue](https://github.com/Cynthia7979/scp_cn_mirror/issues/new)或[Pull request](https://github.com/Cynthia7979/scp_cn_mirror/compare)来报告问题或贡献。
